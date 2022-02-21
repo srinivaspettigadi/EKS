@@ -1,0 +1,58 @@
+https://youtu.be/aZd0UolVwD4   -----------> video for creating EKS cluster
+--------------------------------
+
+In this video, I will show you How to Create and Setup EKS Cluster on AWS using AWS Management Console. Using this EKS Cluster service, you can have your kubernetes environment installed on AWS.
+
+Document : https://www.learnitguide.net/2020/08/how-to-create-eks-cluster-on-aws-using.html
+
+CloudFormation Template for VPC :   https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFVIaENRdGtBa19xVy1RQXpYOXpHbkVrcGIxQXxBQ3Jtc0tsRDBrc0stZVZuOGpTbWJKa3NGbEJHY25OVndWZW1EeWl0X0RzaFJqdDlhOGhxTjBETlF1bFNHbGM0bkVPQy1MNGQyRHRxN09RQWxuVDJYcGNVMHBVZWhRM3g1dTlQa0Z5WWszV2U0XzcxMzJqRVRCQQ&q=https%3A%2F%2Famazon-eks.s3.us-west-2.amazonaws.com%2Fcloudformation%2F2020-04-21%2Famazon-eks-vpc-private-subnets.yaml
+
+
+AWS CLI Explained with Examples | Install AWS CLI | AWS Tutorial for Beginners
+https://www.youtube.com/watch?v=JscvS...
+
+Get a Sample Demo Application from GitHub : https://github.com/learnitguide/kuber...
+
+Previous Video:
+How to Create SSL/TLS Certificate for Ingress Controller | Kubernetes Tutorial Part 11
+https://www.youtube.com/watch?v=ITuAn...
+
+Next Video:
+AWS EKS | Create EKS Cluster on AWS using EKSCTL | Install Kubernetes on AWS
+https://www.youtube.com/watch?v=QXzYI...
+
+Boost and Develop your Skills on Kubernetes using our Complete Full Kubernetes Tutorial Videos Playlist : https://goo.gl/4EQA4w
+
+Recommended Kubernetes Videos for Beginners:
+What is Kubernetes | Learn Kubernetes Basics | Kubernetes Beginners Tutorial | Kubernetes Tutorial Part 1
+https://www.youtube.com/watch?v=UhSoT...
+
+Setting Up Kubernetes cluster on Ubuntu - Install Kubernetes on Ubuntu 
+https://www.youtube.com/watch?v=vTroM...
+
+How to Create Kubernetes Deployment & Service Using Kubectl Command | Kubernetes Tutorial Part 3
+https://www.youtube.com/watch?v=kvQ3V...
+
+How to Create Kubernetes Deployment & Service Using YAML Files | Kubernetes Tutorial Part 4
+https://www.youtube.com/watch?v=ersOP...
+
+Basics of Kubernetes Networking | Container & Pod Communication | Kubernetes Tutorial Part 7
+https://www.youtube.com/watch?v=KtHKS...
+
+Kubernetes Services Explained with Examples | Kubernetes Tutorial Part 8
+https://www.youtube.com/watch?v=d9xx4...
+
+COMPLETE OTHER TECHNOLOGY FULL TRAINING AND TUTORIAL VIDEOS PLAYLISTS:
+Devops Tutorial & Devops Online Training - https://goo.gl/hpQNz3
+Puppet Tutorial & Puppet Online Training - https://goo.gl/wbikT9
+Ansible Tutorial & Ansible Online Training - https://goo.gl/kQc7HV
+Docker Tutorial & Docker Online Training - https://goo.gl/x3nXPg
+Kubernetes Tutorial & Kubernetes Online Training - https://goo.gl/4EQA4w
+Python Programming Tutorial & Python Online Training - https://goo.gl/hDN4Ai
+Cloud Computing Tutorial & Cloud Computing Online Training - https://goo.gl/Dnez3Q
+Openstack Tutorial & Openstack Online Training - https://goo.gl/hEK9n9
+Clustering Tutorial & Clustering Online Training - https://goo.gl/FvdmMQ
+VCS Cluster Tutorial & Veritas Cluster Online Training - https://goo.gl/kcEdJ5
+Ubuntu Linux Tutorial & Ubuntu Online Training - https://goo.gl/pFrfKK
+RHCSA and RHCE Tutorial & RHCSA and RHCE Online Training - https://goo.gl/qi2Xjf
+Linux Tutorial & Linux Online Training - https://goo.gl/RzGUb3
